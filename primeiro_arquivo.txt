@@ -1,0 +1,11 @@
+Eu já utilizava o git e o github então esse primeiro módulo foi bem tranquilo,
+porém ainda assim aprendi bastante coisa como o método GitFlow de usar as branches
+eu só usava a master pra tudo agora sei que posso utilizar outras pra diferentes
+responsabilidades.
+
+Principais comandos:
+- git init
+- git status
+- git add .
+- git commit -m "Olá mundo"
+- git push
